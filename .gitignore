@@ -28,3 +28,4 @@ MANIFEST.in
 /.vscode
 *.h5
 *.xmf
+uv.lock
